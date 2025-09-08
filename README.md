@@ -56,7 +56,7 @@ This guide gets you from zero to a deployed Midnight smart contract in minutes.
 
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/your-github-username/midnight-deploy.git
+    git clone https://github.com/hitakshiA/midnight-deploy
     cd midnight-deploy
     ```
 2.  **Install dependencies:**
