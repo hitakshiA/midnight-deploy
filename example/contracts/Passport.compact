@@ -1,0 +1,10 @@
+pragma language_version >= 0.16;
+import CompactStandardLibrary;
+export ledger adminPublicKey: Bytes<32>;
+export ledger isInitialized: Boolean;
+constructor() { isInitialized = false; }
+export circuit initialize(initialAdminPk: Bytes<32>): [] {
+  assert(!isInitialized, "Contract has already been initialized.");
+  adminPublicKey = disclose(initialAdminPk);
+  isInitialized = true;
+}
