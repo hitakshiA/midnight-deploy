@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Midnight Deploy: The Slickest CLI for Midnight Contract Deployments
 
 [![npm version](https://img.shields.io/npm/v/midnight-deploy?style=for-the-badge)](https://www.npmjs.com/package/midnight-deploy)
