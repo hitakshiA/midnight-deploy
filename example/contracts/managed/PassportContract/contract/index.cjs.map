@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "index.cjs",
+  "sourceRoot": "../../../",
+  "sources": ["Passport.compact"],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAIA;;;;;;;;;;MACA,AAAA,UAIC;;;;;cAJyB,gBAAyB;;;;;;;;;;;;;;;;;;yCAAzB,gBAAyB;;;;;;;;;4CAAzB,gBAAyB;;;OAIlD;;;GALuC;EAAxC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAFA;;;;;;;;;uDAAwC;IACxC;;;;;;;;;uDAAqC;IACrB;;;;;;;;;uDAAa;;;;;;;GAAW;EACxC,AAAA,aAIC,4BAJyB,gBAAyB;qDACzC;;;;;;;;;;;wGAAa;;IACrB;;;;;;;yGAA0B,gBAAc;;uDAA1B;IACd;;;;;;;;;uDAAa;;GACd;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAPD;qCAAA;;;;;;;;;;;wFAAwC;KAAA;IACxC;qCAAA;;;;;;;;;;;wFAAqC;KAAA;;;;;;;;;;;;;;"
+}

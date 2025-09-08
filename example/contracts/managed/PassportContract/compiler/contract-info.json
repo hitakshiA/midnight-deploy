@@ -1,0 +1,26 @@
+{
+  "circuits": [
+    {
+      "name": "initialize",
+      "pure": false,
+      "arguments": [
+        {
+          "name": "initialAdminPk",
+          "type": {
+            "type-name": "Bytes",
+            "length": 32
+          }
+        }
+      ],
+      "result-type": {
+        "type-name": "Tuple",
+        "types": [
+        ]
+      }
+    }
+  ],
+  "witnesses": [
+  ],
+  "contracts": [
+  ]
+}
